@@ -1,5 +1,6 @@
 this project aims to develop text_summarizer using different techniques.
 Techniques:
+
    1)Basic(frequency sorting method):(completed) Ranking sentences on the basis of the frequency of words(other than stop / common words)
 
    2)Intermediate(Pagerank method):(completed) ranking sentences using the pagerank algo that is similiar to the one developed by google to rank webpages for its search engine.
